@@ -1,4 +1,4 @@
 import os
-from jani import Haqani
+from Jani import Haqani
 
 Haqani()
